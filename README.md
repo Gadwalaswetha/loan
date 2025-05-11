@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/loan-application-system.git
+git clone https://github.com/Gadwalaswetha/loan
 cd loan-application-system
 Install dependencies:
 
